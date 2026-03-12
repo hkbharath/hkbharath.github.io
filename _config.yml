@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "🛖"
+title                    : "Bharathkumar Hegde / Home"
 title_separator          : "-"
 name                     : &name "Bharathkumar Hegde"
 description              : &description "Bharathkumar Hegde's Academic Profile"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "hkbharath/hkbharath.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Bharathkumar Hegde"
+  name             : "Bharathkumar<br>Hegde"
   pronouns         : # example: "she/her"  
   bio              : "PhD Researcher, AI & Multi-Agent Systems | Reinforcement Learning, Computer Vision, Machine Learning | Agentic AI, Autonomous Systems |"
   location         : "Dublin, Ireland"
