@@ -1,7 +1,7 @@
 ---
 title: "A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-collaborative-safety-shield-on-ramp-merging
 excerpt: 'This paper proposes a collaborative safety shield framework for safe and efficient CAV lane changes in congested on-ramp merging scenarios. Accepted for presentation at IEEE IV 2026.'
 date: 2026-02-01
