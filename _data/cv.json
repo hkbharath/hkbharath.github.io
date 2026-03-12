@@ -223,9 +223,18 @@
     }
   ],
   "languages": [
-    { "language": "English", "fluency": "Fluent" },
-    { "language": "Hindi", "fluency": "Proficient" },
-    { "language": "Kannada", "fluency": "Native" }
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Kannada",
+      "fluency": "Native"
+    }
   ],
   "interests": [
     {
@@ -274,29 +283,6 @@
       "releaseDate": "2022-07-01",
       "website": "https://ceur-ws.org/Vol-3169/paper8.pdf",
       "summary": "Survey of AI-based lane changing models for CAVs, covering classical control and deep learning approaches."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Safe and Efficient CAV Lane Changing Using Decentralised Safety Shields",
-      "event": "IEEE Intelligent Vehicles Symposium (IV) 2025",
-      "date": "2025-06-01",
-      "location": "Cluj-Napoca, Romania",
-      "description": "Presented paper on Hybrid Safety Shield framework for CAV lane changes."
-    },
-    {
-      "name": "Safe CAV Lane Changes Using MARL and Control Barrier Functions",
-      "event": "ATT @ ECAI 2024",
-      "date": "2024-10-01",
-      "location": "Santiago de Compostela, Spain",
-      "description": "Presented paper integrating MARL with CBFs for safe autonomous vehicle lane changes."
-    },
-    {
-      "name": "Design of AI-Based Lane Changing Models in Connected and Autonomous Vehicles: a Survey",
-      "event": "ATT @ IJCAI 2022",
-      "date": "2022-07-01",
-      "location": "Vienna, Austria",
-      "description": "Presented survey of AI-based lane changing models for Connected and Autonomous Vehicles."
     }
   ],
   "teaching": [
